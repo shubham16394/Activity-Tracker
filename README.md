@@ -27,7 +27,7 @@ Page localhost:3000/a -
 
 ![alt text](https://github.com/shubham16394/WeCP_Task_2/blob/master/a.JPG)
 
-Page localhost:3000a/admin - 
+Page localhost:3000/a/admin - 
 
 ![alt text](https://github.com/shubham16394/WeCP_Task_2/blob/master/a_admin.JPG)
 
